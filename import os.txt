@@ -1,4 +1,3 @@
-
 import os
 import sys
 import requests
@@ -77,4 +76,3 @@ try:
 except KeyboardInterrupt:
 	print ('\n' + R + '[!]' + R + ' Keyboard Interrupt.' + W)
 	exit()
-
